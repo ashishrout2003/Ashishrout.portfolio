@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Ashishrout.portfolio/static/css/main.bf538fe7.css",
+    "main.js": "/Ashishrout.portfolio/static/js/main.074f7c25.js",
+    "static/media/IOT.jpg": "/Ashishrout.portfolio/static/media/IOT.10d8dfcd8d11c30337de.jpg",
+    "static/media/MIS.jpg": "/Ashishrout.portfolio/static/media/MIS.886b852021beab2d9704.jpg",
+    "static/media/Cloud.jpg": "/Ashishrout.portfolio/static/media/Cloud.2d7b01cc009cda396d1d.jpg",
+    "static/media/Ashish.JPG": "/Ashishrout.portfolio/static/media/Ashish.91f318c40e51e29d22de.JPG",
+    "static/media/Healthcare.png": "/Ashishrout.portfolio/static/media/Healthcare.e0d1367a4237f9692acd.png",
+    "static/media/Employee.png": "/Ashishrout.portfolio/static/media/Employee.d6e6b04acb75d908178f.png",
+    "static/media/Ecommerce.png": "/Ashishrout.portfolio/static/media/Ecommerce.a27fec650d4db1163f01.png",
+    "static/media/intern.jpg": "/Ashishrout.portfolio/static/media/intern.aaea329e05a85ed7a3b4.jpg",
+    "static/media/Python.png": "/Ashishrout.portfolio/static/media/Python.b1b25b933c8210854e71.png",
+    "static/media/PHP.jpg": "/Ashishrout.portfolio/static/media/PHP.389992779c15a390e5c2.jpg",
+    "static/media/BDk.jpeg": "/Ashishrout.portfolio/static/media/BDk.0f06657fb1b6d27b9ad4.jpeg",
+    "static/media/UK.png": "/Ashishrout.portfolio/static/media/UK.090853edcc1cb3c1ef8c.png",
+    "static/media/NPLTEL.jpg": "/Ashishrout.portfolio/static/media/NPLTEL.5e11b1a53a2fac5cd2e7.jpg",
+    "static/media/BSE.jpg": "/Ashishrout.portfolio/static/media/BSE.62f420d61b7ddb674fe7.jpg",
+    "index.html": "/Ashishrout.portfolio/index.html",
+    "main.bf538fe7.css.map": "/Ashishrout.portfolio/static/css/main.bf538fe7.css.map",
+    "main.074f7c25.js.map": "/Ashishrout.portfolio/static/js/main.074f7c25.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf538fe7.css",
+    "static/js/main.074f7c25.js"
+  ]
+}
