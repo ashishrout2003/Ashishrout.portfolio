@@ -1,6 +1,6 @@
 # My Personal Portfolio 
 
-Welcome to my personal portfolio website! You can access the website [here](https://himidiri.github.io/portfolio/).
+Welcome to my personal portfolio website! You can access the website [here](https://github.com/ashishrout2003/aashishrout.portfolio.git).
 
 ## About
 This website serves as a digital portfolio to display my projects, skills, and experience. It is designed to highlight my qualifications and provide an overview of my work.
